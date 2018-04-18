@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZQPacking_Example' do
+  pod 'ZQPacking', :path => '../'
+
+  target 'ZQPacking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
