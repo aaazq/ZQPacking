@@ -1,0 +1,16 @@
+PODS:
+  - ZQPacking (0.1.0)
+
+DEPENDENCIES:
+  - ZQPacking (from `../`)
+
+EXTERNAL SOURCES:
+  ZQPacking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZQPacking: d89b11d98c46306fe827eef00111c1a23a6e1252
+
+PODFILE CHECKSUM: ada5277669c8d08879dc39545a60ea9f4a1db928
+
+COCOAPODS: 1.5.0

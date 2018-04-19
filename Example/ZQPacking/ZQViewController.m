@@ -7,7 +7,8 @@
 //
 
 #import "ZQViewController.h"
-
+#import <ZQPacking/ZQPacking.h>
+#import <ZQPacking/NSObject+ZQHelper.h>
 @interface ZQViewController ()
 
 @end
@@ -18,6 +19,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    self.view.width = 10;
+    
+    NSLog(@"%zd", [[self class] getIdentifier]);
+
 }
 
 - (void)didReceiveMemoryWarning

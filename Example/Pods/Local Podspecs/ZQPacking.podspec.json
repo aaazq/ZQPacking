@@ -1,0 +1,22 @@
+{
+  "name": "ZQPacking",
+  "version": "0.1.0",
+  "summary": "封装一些常用的控件",
+  "description": "封装一些常用的控件,包括",
+  "homepage": "https://github.com/13525505765@163.com/ZQPacking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "13525505765@163.com": "13525505765@163.com"
+  },
+  "source": {
+    "git": "https://github.com/13525505765@163.com/ZQPacking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZQPacking/Classes/**/*"
+}

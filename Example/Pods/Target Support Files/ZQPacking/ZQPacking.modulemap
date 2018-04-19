@@ -1,0 +1,6 @@
+framework module ZQPacking {
+  umbrella header "ZQPacking-umbrella.h"
+
+  export *
+  module * { export * }
+}
