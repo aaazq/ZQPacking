@@ -17,13 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = '封装一些常用的控件,包括'
+  s.description      = '封装一些常用的控件、类目等工具类'
 
-  s.homepage         = 'https://github.com/13525505765@163.com/ZQPacking'
+  s.homepage         = 'https://github.com/aaazq/ZQPacking'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '13525505765@163.com' => '13525505765@163.com' }
-  s.source           = { :git => 'https://github.com/13525505765@163.com/ZQPacking.git', :tag => s.version.to_s }
+  s.author           = { 'zhangqi' => '13525505765@163.com' }
+  s.source           = { :git => 'https://github.com/aaazq/ZQPacking.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
